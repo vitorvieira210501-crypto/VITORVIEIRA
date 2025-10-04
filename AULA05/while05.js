@@ -4,3 +4,4 @@ let valor = Number(prompt("QUAL VALOR VOCE QUER MULTIPLICAR"))
 
 while ( contador <= 10) {document.write( valor * contador + '<br>' ) 
 contador++ }
+

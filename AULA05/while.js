@@ -18,3 +18,8 @@ else {alert("operacao invalida")}
 continua = prompt("Deseja permanecer no programa<s/n>")
 }
 alert ("programa finalizado");
+
+
+
+
+
