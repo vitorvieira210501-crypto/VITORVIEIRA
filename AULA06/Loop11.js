@@ -2,7 +2,8 @@ let vas = 0
 let fla = 0
 let bot = 0
 let flu = 0
-let time;
+let time = 0
+let out = 0 
 
 
 for (i = 0; i <= 10; i++) {
@@ -27,4 +28,10 @@ for (i = 0; i <= 10; i++) {
     }
     
 }
+
+document.write ( "VASCO = " + vas++ + "<br>")
+document.write ( "FLAMENGO = " + fla++ + "<br>")
+document.write ( "FLUMINENSE = " + flu++ + "<br>")
+document.write ( "BOTAFOGO = " + bot++ + "<br>")
+document.write ( "OUTROS = " + out++ + "<br>")
 
