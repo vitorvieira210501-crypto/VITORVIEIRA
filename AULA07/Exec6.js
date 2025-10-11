@@ -1,5 +1,6 @@
 
 let menu;
+let sair;
 
 for (let i = 1; i <= 3; i++) {
     menu = (prompt("digite de 1 a 3 para selecionar no menu"))
@@ -17,6 +18,8 @@ for (let i = 1; i <= 3; i++) {
     }
 
 }
+sair = prompt("Digite 0 para sair")
+alert("Programa Encerrado!")
 
 
 
